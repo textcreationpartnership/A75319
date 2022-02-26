@@ -1,0 +1,259 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The antient land-mark skreen or bank betwixt the prince or supreame magistrate, and the people of England. By the right of inheritance which the nobility &amp; baronage of England have to sit in the House of Peers in Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75319</idno>
+            <idno type="STC">Wing A3068</idno>
+            <idno type="STC">Thomason E972_9</idno>
+            <idno type="STC">ESTC R34</idno>
+            <idno type="EEBO-CITATION">99872367</idno>
+            <idno type="PROQUEST">99872367</idno>
+            <idno type="VID">168544</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75319)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168544)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 144:E972[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The antient land-mark skreen or bank betwixt the prince or supreame magistrate, and the people of England. By the right of inheritance which the nobility &amp; baronage of England have to sit in the House of Peers in Parliament.</title>
+               </titleStmt>
+               <extent>[2], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by T.W. for Daniel White at the seven Starrs in S. Paul's Church-Yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "march. 12th March. 12. 1658"; the 9 in the imprint date has been crossed out.</note>
+                  <note>Reproductions of the originals in the Henry E. Huntington Library and Art Gallery, and the British Librbary.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament. --  House of Lords --  Early works to 1800.</term>
+               <term>Great Britain --  Nobility --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168544:1" rendition="simple:additions"/>
+            <p>THE ANTIENT LAND-MARK SKREEN or BANK BETWIXT The Prince or Supreame Magi<g ref="char:EOLhyphen"/>ſtrate, and the People of <hi>ENGLAND.</hi>
+            </p>
+            <p>BY THE Right of Inheritance which the NOBILITY &amp; BARONAGE of <hi>ENGLAND</hi> have TO Sit in the Houſe of <hi>PEERS</hi> IN PARLIAMENT.</p>
+            <p>
+               <add>March. 12<hi rend="sup">th</hi>
+               </add> 
+               <hi>LONDON,</hi> Printed by <hi>T. W.</hi> for <hi>Daniel White</hi> at the ſeven Starrs in S. <hi>Paul</hi>'s Church-Yard, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168544:2"/>
+            <pb facs="tcp:168544:2"/>
+            <head>The antient Land-marke, Skreen, or Bank, betwixt the Prince, or Supream Ma<g ref="char:EOLhyphen"/>giſtrate and the People <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>T ſhould be confeſſed by all that have but <hi>Travailed</hi> the ordinary Roades and pathes of the book of God, and Scripture, that the <hi>Princes</hi> and heads of the Tribes of the people of <hi>Iſrael,</hi> in and after the <hi>Theocraty,</hi> or time of Gods own government of them, and in the Raign of the Kings, which he extraordinarily bleſ<g ref="char:EOLhyphen"/>ſed and appointed over them, were of their greateſt and moſt eminent Councells and <hi>Sanhedrims.</hi>
+            </p>
+            <p>And not to be denyed by thoſe that have been acquainted with the <hi>Greek</hi> and <hi>Roman</hi> Hiſtories.</p>
+            <p>That the <hi>Patricii</hi> of the one, and the wiſe and great men of the other, were alwaies made uſe of, and preferred in their Senates
+<pb n="2" facs="tcp:168544:3"/>and Councells, as men of the greateſt under<g ref="char:EOLhyphen"/>ſtanding and intereſt, attended by their own virtues, education, and fitnes, as well as thoſe of their Anceſtors.</p>
+            <p>In Imitation and conformity whereof, and that conduct of reaſon and ſucceſſe which had incouraged all the Civilized peo<g ref="char:EOLhyphen"/>ple and Nations of the earth, rather to fol<g ref="char:EOLhyphen"/>low than deſert ſuch univerſally approved experiments.</p>
+            <p>Our no fooliſh <hi>Engliſh</hi> progenitors, did not think they ſhould do themſelves or poſt<g ref="char:EOLhyphen"/>erity any harme to tread the ſame ſteps, and embrace and make much of the <hi>Truth</hi> in the old paths thereof.</p>
+            <p>And hence it was, that our over-warlike, and too much buſied forefathers the <hi>Saxons,</hi> in their Civil Wars and Diſcords, took it to be neither dangerous nor uſeles, to make their Princes and <hi>Ealdermen,</hi> (which were the ſame with our Earles and Barons, the later being the <hi>Genus,</hi>
+               <note place="margin">I. Brampton hiſt Joruall.</note> or foundation of the former) of their Councells and Parliaments; as King <hi>Ina</hi> did in Anno 711. (Now above nine hundred 40 and 7 yeares ago and then not remarqued for any Novelty,)
+<note place="margin">Selden Tit. Ho<g ref="char:EOLhyphen"/>nour Ca. 5 ſect. 6, 632. Bede lib. 2. Ca. 13.</note> in a Parliament or place where he made his Lawes.</p>
+            <p>That <hi>Edwin,</hi> King of <hi>Northumberland,</hi> when he was perſwaded to become a Chriſti<g ref="char:EOLhyphen"/>an, conſulted, <hi>cum principibus &amp; Conſiliariis ſuis,</hi> or with his <hi>Ealdormen,</hi> as King <hi>Alfred</hi> expounded thoſe wordes in <hi>Bede.</hi>
+            </p>
+            <pb n="3" facs="tcp:168544:3"/>
+            <p> And <hi>Cynewlf,</hi> King of <hi>weſt-Saxe,
+<note place="margin">Selden Tit. Ho<g ref="char:EOLhyphen"/>nour 701.</note> cum Caterva Satraparum,</hi> with the whole body of his Nobility.</p>
+            <p>That <hi>William</hi> the Conquerour.
+<note place="margin">Math. Paris. 75.</note> 
+               <hi>Conſilio Baronum ſuorum,</hi> reſtored our Engliſh Lawes.</p>
+            <p>And <hi>Henry</hi> the firſt at his Coronation (ſaith <hi>Mathew Paris</hi>) made Lawes <hi>Conſi<g ref="char:EOLhyphen"/>lio Baronum ſuorum.</hi>
+            </p>
+            <p>For <hi>Comes,</hi> or the title of an Earle, de<g ref="char:EOLhyphen"/>rived or branched out of the Baronage, could not be ſo ſeparate from the perſon of the Prince, in the interpretation of the word, <hi>Ex vi termini,</hi> or the legall Cuſtome, or appropriation of it, as not to be with the King, or ſupream Magiſtrate, in his great and publique Councels or Parliaments.</p>
+            <p>And by the longeſt Preſcription, or uſe of any Lawes or good Cuſtomes, which we now have in the Engliſh Nation, from long before the Conqueſt, without any interrup<g ref="char:EOLhyphen"/>tion, untill the yeare 1648. The Nobility and Barons of <hi>England</hi> may clayme and ought to enjoy it, as well as any other part of the people do all or any part of their inheritances which they would be unwill<g ref="char:EOLhyphen"/>ing not to have called their own, or not to be juſtified by an <hi>Immemoriall</hi> Pre<g ref="char:EOLhyphen"/>ſcription.</p>
+            <p>And therefore in the Grants and Letters Patents of Earles, of long or great Anti<g ref="char:EOLhyphen"/>quity; as in that of the Earldome of <hi>Here<g ref="char:EOLhyphen"/>ford</hi> to <hi>Miles de Gloceſtria,</hi> by <hi>Maud</hi> the
+<pb n="4" facs="tcp:168544:4"/>Empreſſe; She grants it with all liberties and cuſtomes as honorably as any former Earle of that County enjoyed it.</p>
+            <p>And to <hi>Awbrey de Vere,</hi> of the Earldom of <hi>Oxford,</hi> by King <hi>Henry</hi> the Second, now above 500 yeares paſt it was <hi>Ita liberé &amp; honorificè,</hi> as freely and honourably, <hi>ſicut aliquis Comitum Angliae,</hi> as any of the Earles of <hi>England</hi> moſt honourably enjoyed it.</p>
+            <p>And if any would know, whether the pri<g ref="char:EOLhyphen"/>viledge to them and their Heires of ſitting in Parliament,
+<note place="margin">
+                  <hi>Selden</hi> Tit. Honor Cap. 5 704.</note> were one of their juſt inhe<g ref="char:EOLhyphen"/>ritable liberties and Birth-rights, the moſt learned <hi>Selden</hi> will tell them.</p>
+            <p>That in the great Parliament of <hi>Claren<g ref="char:EOLhyphen"/>don,</hi> held by King <hi>Henry</hi> the ſecond in the Tenth yeare of his Raigne <hi>preſentibus Comi<g ref="char:EOLhyphen"/>tibus &amp; proceribus Angliae.</hi> The Earles and Nobility being preſent.</p>
+            <p>The <hi>Avitae conſuetudines,</hi> antient Cu<g ref="char:EOLhyphen"/>ſtomes of their Fore-fathers, &amp; noble Proge<g ref="char:EOLhyphen"/>nitors, were, among other Cuſtomes, Recog<g ref="char:EOLhyphen"/>nized to be that <hi>Debent intereſſe Judiciis Curiae Regis</hi> they ought to ſit in Parliament.</p>
+            <p>And notes thereupon that to be a <hi>Baron,</hi> and to have right to ſit with the reſt of the <hi>Barons</hi> in Councells or Courts of Judgment were according to the Lawes of that time <hi>Sy<g ref="char:EOLhyphen"/>nonimies.</hi>
+            </p>
+            <p>And were no otherwiſe taken alſo to be in the ſucceeding ages, when as in the 23 year of <hi>Henry</hi> the ſecond, as <hi>Hoveden</hi> re<g ref="char:EOLhyphen"/>ports, the determination of the contro<g ref="char:EOLhyphen"/>verſy
+<pb n="5" facs="tcp:168544:4"/>between <hi>Alphonſo,</hi> King of <hi>Caſtile,</hi> and <hi>Sanche</hi> King of <hi>Navarr,</hi> ſubmited to the Arbitrement of that Engliſh King, was de<g ref="char:EOLhyphen"/>termined <hi>Habitocum Comitibus &amp; Baronibus cum deliberatione conſilii.</hi> by mature advice of his Earles and Barons.</p>
+            <p>In the ſixth year of King <hi>Iohn,</hi> certain Lawes were made <hi>communi conſilio Baro<g ref="char:EOLhyphen"/>num ſuorum,</hi> by a Common Counſell, or Parliament held at <hi>Wincheſter.</hi>
+            </p>
+            <p>
+               <hi>William</hi> de <hi>Breoſe,</hi> a Baron,
+<note place="margin">
+                  <hi>Math. Puis</hi> 303. edit. <hi>Londini.</hi>
+               </note> being in that Kings raigne demanded by the King to have his Children delivered for Hoſtages, anſwered (as the Monk of St. <hi>Albans</hi> relates it,) <hi>Si ipſum in aliquo offendi, paratus ſum &amp; ero domino meo &amp; ſine obſidibus ſatisfacere ſecundum Judi<g ref="char:EOLhyphen"/>cium Curiae ſuae &amp; Baronum parium meorum certo mihi aſſignato die &amp; loco;</hi> I am &amp; ſhall be ready to ſatisfy the King my Lord without Hoſtages, if in any thing I have offended him, according to the Judgment of his Court and the <hi>Barons</hi> my Peeres, if he ſhall aſſigne me a certain day and place.</p>
+            <p>And the <hi>Modus tenendi Parliamentum,</hi> (which cannot be denyed but to have been exemplified under the great Seal of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and ſent by that King, into <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> where our Engliſh Lawes then began to be planted) ſaith alſo expreſſely that <hi>omnes &amp; ſinguli Comites &amp; Barones ſummo<g ref="char:EOLhyphen"/>niri &amp; venire debent ad Parliamentum;</hi> All Earles and Barons ought to be ſummoned and come to Parliament.</p>
+            <pb n="6" facs="tcp:168544:5"/>
+            <p> The reſtoration of <hi>Hugh de Vere,</hi> Earl of <hi>Oxford,</hi> to the Earldome of <hi>Oxford,</hi> and all his fathers lands in 17. H. 3 by an inveſtie ture of <hi>Cinxit eum gladie comitatus Oxen.</hi> Gir<g ref="char:EOLhyphen"/>ding him with the ſword of the Earldome, did continue unto him his Peerage or Privi<g ref="char:EOLhyphen"/>ledge of ſitting in Parliament enjoyed by his Anceſtors.</p>
+            <p>After the battell of <hi>Eveſham</hi> in 49. H. 3. the Earles, and Barons, and others, which ſtood againſt the King, being by act of Parliament in <hi>Anno</hi> 50. <hi>H.</hi> 3. diſinherited, and the lands of many of them given away or ſold, and the <hi>Dictum</hi> de <hi>Kenilworth</hi> in 51. <hi>H.</hi> 3. admitting them to a compoſition. <hi>Wake Haſtings, Veſcy, Gray,</hi> &amp; <hi>Nevill,</hi> Ba<g ref="char:EOLhyphen"/>rons, and <hi>Robert</hi> de <hi>Vere,</hi> Earl of <hi>Oxford;</hi> and many other of the Nobility having com<g ref="char:EOLhyphen"/>pounded, did without any new grant of their E<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rldomes and Baronies, retaine all their Parliament priviledges.</p>
+            <p>
+               <hi>Andrew de Aſtely,</hi> the Sonne and Heir of Sir <hi>Thomas de Aſteley,</hi> a Baron, ſlain at the Battell of <hi>Eveſham,</hi> againſt the King was after his Fathers deathin 49 <hi>H.</hi> 3. ſummoned, as a Baron to Parliament, in ſeverall Parliaments in the raigne of King <hi>E.</hi> 1.</p>
+            <p>16 <hi>Richard</hi> the 2.
+<note place="margin">16 <hi>R.</hi> 2. Act. 15.</note> the King granting and reſtoring to Sir <hi>Aubrey</hi> de <hi>Vere,</hi> Unckle to <hi>Robert</hi> de <hi>Vere,</hi> Duke of <hi>Ireland</hi> and Earl of <hi>Oxford</hi> in Parliament the Name, Title, Eſtate,
+<pb n="7" facs="tcp:168544:5"/>and Honour, of Earl of <hi>Oxford,</hi> which was forfeited by the attainder of the ſaid Duke, to hold to him and his heires Males; cauſed him to be put as the words in the record thereof in French beares it, <hi>en ſon lieu oveſquè les Peeres,</hi> in his place with his Peeres.</p>
+            <p>The clayme in Parliment in <hi>xi. H.</hi> 6.
+<note place="margin">Rot Parl. 11. <hi>R</hi> 2 m. 9. n. 32, 33, 34, 35.</note> of the Earl of <hi>Arundell</hi> to ſit in Parliament where it was adjudged, that he and his Heires, Earles of <hi>Arundell,</hi> ſhould have, <hi>locum &amp; ſedem,</hi> the place of Earls of <hi>Arundell</hi> in Parliament as they had formerly.</p>
+            <p>And the like adjudged in Parliament in the Controverſie betwixt <hi>William</hi> Earl of <hi>Arun<g ref="char:EOLhyphen"/>dell,</hi> and the Earle of <hi>Devonſhire</hi> in 27. <hi>H.</hi> 6.
+<note place="margin">Parl. 27 <hi>H.</hi> 6. Art. 18.</note>
+            </p>
+            <p>All which with the priviledge granted of old unto the Engliſh Nobility to kill a Buck, or Deer, in any of the Kings For<g ref="char:EOLhyphen"/>reſts and Chaſes, in their going to the Parliament, or to have no Wages for the Knights of the Shires which ſerved in Par<g ref="char:EOLhyphen"/>liament, to be levyed of ſuch of their Lands as were parcell of their Earldomes and Baronies.</p>
+            <p>The Act of Parliament of 14. <hi>E.</hi> 3. <hi>cap.</hi> 5 for redreſſing in Parliament the delayes in Judgements of other Courts, the Act of 31. <hi>H.</hi> 8. <hi>Cap,</hi> 10. giving the Earles and Barons their place of <hi>Antienty</hi> in the Par<g ref="char:EOLhyphen"/>liament and all the Acts of Parliament which we have had from the firſt being and methodizing of our Lawes from
+<pb n="8" facs="tcp:168544:6"/>the <hi>Brittiſh</hi> times, untill the latter end of 1648.</p>
+            <p>All our Reſtorations of antient Barons and bringing them into Parliament by vir<g ref="char:EOLhyphen"/>tue of Entailes of Earldomes and Ba<g ref="char:EOLhyphen"/>ronies or otherwiſe, and all our Re<g ref="char:EOLhyphen"/>cords and Journalls of Parliament do plentifully ſhew that they had an Inherira<g ref="char:EOLhyphen"/>ble right to ſit in thoſe Aſſemblies.</p>
+            <p>And cannot be ſuppoſed to repreſent the <hi>Commons</hi> in Parliament (whoſe firſt ſum<g ref="char:EOLhyphen"/>moning thither either, by <hi>H.</hi> 1. or <hi>H.</hi> 3, was meerely by the Kings writts or Summons and not by any Act or order of Parlia<g ref="char:EOLhyphen"/>ment.)</p>
+            <p>When as the Nobillity were ever a di<g ref="char:EOLhyphen"/>ſtinct Eſtate by themſelves, and the Com<g ref="char:EOLhyphen"/>mons did, after their calling or being ſum<g ref="char:EOLhyphen"/>moned to Parliament, repreſent onely for their owne eſtate and degree, agitate their Votes and buſines apart; Elect their Knights of the Shire and Burgeſſes, to con<g ref="char:EOLhyphen"/>ſent and repreſent for them, ſend Meſſages, and deſire Conferences with the Lords; ſtand bare, whilſt they ſit coverd, and receive Bills from them. And that the Commons were never authorized or accompted to repreſent for the Nobility by any Law, Record, Conſtitution, legall Cuſtome, or Uſage of this Nation as yet to be found, or extant; And that if the <hi>Lords</hi> had repreſented the <hi>Commons,</hi> or any
+<pb n="9" facs="tcp:168544:6"/>other than themſelves, the <hi>Commons</hi> would have taken more care of themſelves than to have voted them dangerous or uſeleſſe.</p>
+            <p>And howſoever that the later Letters Patents, or creation of Earles,
+<note place="margin">11. R. 2. pat. 3. m. 15. Pat. 23. <hi>H.</hi> 6. part. 2 m. 20.</note> Viſcounts and Barons, as that of Sir <hi>John Beauchamp</hi> Baron of <hi>Kidderminſter,</hi> the firſt which was created by Letters Patents in 11 <hi>R.</hi> 2. &amp; of the Lord <hi>Beaumont,</hi> in 23. <hi>H.</hi> 6. and the ſucceed<g ref="char:EOLhyphen"/>ing ages, have been ſo punctuall and carefull as to grant in ſpeciall words, to them and their Heirs Males, <hi>Sedem locum &amp; vocem in Parliamentis &amp; publicis Comitiis &amp; Con<g ref="char:EOLhyphen"/>ciliis,</hi> Place, and Voice in Parliament.</p>
+            <p>Yet it was as much before, the right of the Baronage of <hi>England</hi> &amp; upon that accompt <hi>Ralph de Monthermer,</hi> who married <hi>Joane</hi> Counteſſe of <hi>Gloceſter,</hi> and divers others, in the right of their Wives, did ſit in Parlia<g ref="char:EOLhyphen"/>ment, aſwell as enjoyed their Baronies.</p>
+            <p>And it is to be remembred That Sir <hi>Edward Cook,</hi> in his <hi>Inſtitutes,</hi>
+               <note place="margin">
+                  <hi>Cookes</hi> inſtit.</note> printed by Order of Parliament, ſaith, that the Lords and Peeres, are to have their Writts or Sum<g ref="char:EOLhyphen"/>mons, <hi>Ex debito Juſtitiae,</hi>
+               <note place="margin">Ruſhworth hiſtoricall col<g ref="char:EOLhyphen"/>lections 240.</note> which was not denyed the Earl of <hi>Briſtoll</hi> upon his petition for his Writs or Summons in 2 <hi>Carol.</hi>
+            </p>
+            <p>That in the begining of our late civill and unhappy warrs there was no ſmall uſe made of an Argument to juſtifie them, taken out of ſome words in <hi>Bracton</hi> (which as
+<pb n="10" facs="tcp:168544:7"/>to the ſuperiority of the houſe of Peers over the King, was ſomething too much ſtrained, and beyond his expreſſe words in other places) who was a Lord Chiefe Juſtice,
+<note place="margin">Bracton lib. 2. Cap. 16.36.</note> in the raign of King <hi>Henry</hi> the third, that <hi>Rex hahet ſuperiorem Deum, Legem, per quam factus eſt Rex &amp; Curiam, ſeilicet Comites &amp; Barones.</hi> The King hath his Superiours, God, the Law, and his Court of Earles and Barons.</p>
+            <p>That the Parliament,
+<note place="margin">Exact Col<g ref="char:EOLhyphen"/>lection 846.528.</note> in their Remon<g ref="char:EOLhyphen"/>ſtrance of the ſtate of the Kingdome, in <hi>December</hi> 1641. did alleage that the Peers were the Kings great Councell.</p>
+            <p>In which Parliament, they alſo decla<g ref="char:EOLhyphen"/>red <hi>but what can we the Commons do with<g ref="char:EOLhyphen"/>out coniunction of the houſe of Lords.</hi>
+            </p>
+            <p>That the trienniall Parliament ordained in, <hi>Anno</hi> 1641. To be called once in every three yeares is to be holden by the King or Supreame Magiſtrate and <hi>Lords</hi> and Commons.</p>
+            <p>And that the power thereby given to the people to make elections of the members and to aſſemble in Parliament if the King or Supreame Magiſtrate ſhould omitt or refuſe to do it cannot be made uſe of or put in execution with any ſafety to the people (who by the Act of Parliament for a tri<g ref="char:EOLhyphen"/>enniall Parliament are only allowed and authorized to do it) or any Lawes which ſhall be made in ſuch a Trienniall Parlia<g ref="char:EOLhyphen"/>ment
+<pb n="11" facs="tcp:168544:7"/>be valid or binding.</p>
+            <p>If it ſhall not be called and holden accord ing to the directions of that Act of Parlia<g ref="char:EOLhyphen"/>ment or purſue the very <hi>preſcript</hi> form and allowance thereof.</p>
+            <p>That it was likewiſe enacted by the aſſent of the Lords and Commons in that Parliment <hi>that that Parliment ſhould not be diſſolved or ad jorned unleſs it ſhould be by Act of Parliament to be paſſed for that purpoſe, and that the houſe of Peeres ſhould not at any time dure<g ref="char:EOLhyphen"/>ing that Parliament be adiourned unleſs it be by themſelves, and their own order, and that every thing, and things whatſoever done, or to be done for the adiournement proroguing, or diſſolving of that Parliament contrary to the ſaid Act ſhould be utterly void and of none effect.</hi>
+            </p>
+            <p>That the houſe of Commons in their joynt declaration with the <hi>Lords</hi> in Parlia<g ref="char:EOLhyphen"/>ment 9 <hi>Auguſt</hi> 1642.
+<note place="margin">Ibid. 502.</note> Did alleage the houſe of <hi>Peeres</hi> to be the <hi>hereditary Counſellors of the Kingdome.</hi>
+            </p>
+            <p>That Mr. <hi>Pym,</hi> in his Speech at <hi>Guild</hi> Hall <hi>London,</hi> 14 <hi>January</hi> 1642, printed by Order of Parliament, affirmed that <hi>the Lords had an hereditary intereſt in makeing Lawes in this Kingdome.</hi>
+            </p>
+            <p>That the <hi>Natinall Covenant, and Oath,</hi> enjoyned the <hi>maintenance and defence of the liberties &amp; priviledges of Parliment</hi> (the Judi<g ref="char:EOLhyphen"/>cative &amp; better part whereof, was the Houſe
+<pb n="12" facs="tcp:168544:8"/>Peeres) <hi>and the Rights and Liberties of the Nobillity, and every one in their ſeverall callings</hi> Rights, Liberties and Priviledges.</p>
+            <p>That in <hi>Aprill</hi> 1646. an Ordinance was made, and commanded to be read in Churches, that the Parliament intended <hi>the Commonwealth ſhould be governed by King, or Supream Magiſtrate, Lords, and Com<g ref="char:EOLhyphen"/>mons.</hi>
+            </p>
+            <p>That the general <hi>Councell</hi> of the Officers of the Army,
+<note place="margin">Prinn's plea for the Lords and houſe of Peeres 45, 46.</note> in their Declaration made at <hi>Windſor,</hi> about <hi>January</hi> 1647. preſented to the Lords Houſe, by Sir <hi>Hardreſſe Waller,</hi> did declare <hi>the hereditary legall Right of the Lords, and their Houſe in Parliament; and the Armies fixed reſolution to uphold and maintayn them and their Priviledges with their Swords.</hi>
+            </p>
+            <p>And that the late Lord Protector,
+<note place="margin">
+                  <hi>Iohn Lilburnes</hi> letter to the Speaker prin<g ref="char:EOLhyphen"/>ted in <hi>July</hi> 1648.</note> when he was <hi>Leivtenant Generall,</hi> proteſted to <hi>Iohn Lilburne</hi> and others, at the <hi>Lord Whartons</hi> houſe, <hi>that upon his Conſcience, in the ſight of God, the Lords had as true a right to their Legiſlative and Juriſdictive power, as he had to the Coat on his Back; and that he and the Army, would ſupport the ſame.</hi>
+            </p>
+            <p>That ſuch of the <hi>Baronage</hi> of <hi>England,</hi> as in the late warrs adhered to the King, did afterwards, by ſeverall Acts and orders of Parliament compound for it.</p>
+            <p>And that ſuch as have not acted againſt the
+<pb n="13" facs="tcp:168544:8"/>Parliament ſince the 30 day of <hi>Ianuary</hi> 1648, or are not within the exceptions of the Act of Parliament for a generall pardon and oblivion, made in the latter end of the year 1651, are included in that gener all pardon and <hi>Oblivion</hi> and to receive benifit by it.</p>
+            <p>That the <hi>Act,</hi> in Anno 1648, which after the death of the King was made to take away the houſe and priviledge of the Peeres in Parliament, (who were neither cited if the houſe of Commons had been impow<g ref="char:EOLhyphen"/>red thereunto,) nor ſo much as conferred with or heard, was only by a part of the houſe of <hi>Commons</hi> when many of their mem<g ref="char:EOLhyphen"/>bers were kept and forced away, and the re<g ref="char:EOLhyphen"/>mainder could not reach to the number of one hundred.</p>
+            <p>That the houſe of Lords, then ſitting, did never give conſent to their diſſolution, or un<g ref="char:EOLhyphen"/>to that Act of that ſmall remainder of the houſe of <hi>Commons</hi> to take away their <hi>Peerage</hi> but proteſted againſt it, as an Act made againſt the fundamentall Lawes, and inva<g ref="char:EOLhyphen"/>lid.</p>
+            <p>That the Parliament in 1653, did declare <hi>that they would be as tender of the Rights and Properties of the people, as they would be of themſelves and their poſte<g ref="char:EOLhyphen"/>rities.</hi>
+               <note place="margin">13. July 1653</note>
+            </p>
+            <p>That by the humble Petition and advice of the Parliament, preſented to the late Lord
+<pb n="14" facs="tcp:168544:9"/>Protector, and aſſented unto the 26. day of <hi>June,</hi> 1657 It was adviſed that <hi>the antient and undoubted liberties &amp; priviledges of Parl. which are</hi> (there ſaid to be) <hi>the birthright &amp; Inheritance of the people, &amp; wherein every man is intereſſed, be preſerved and mainteyned. And that he would not break or interrupt the ſame, nor ſuffer them to be broken or interrupted.</hi>
+            </p>
+            <p>That the <hi>Gothes, Vandalls,</hi> and <hi>Tar<g ref="char:EOLhyphen"/>tars,</hi> the ruder ſort of Nations (Sa<g ref="char:EOLhyphen"/>vages only excepted) the <hi>Swedes, Po<g ref="char:EOLhyphen"/>lonians Hungarians, Bohemians,</hi> whoſe Kings are ſome of them wholy and o<g ref="char:EOLhyphen"/>thers partly elective; the <hi>French, Spaniſh, Portuguez, Itallians, Germans, Scots, Iriſh, Ruſſians, Perſians, Egyptians, Ethiopians,</hi> and the major part of all the World, aſwell Heathen as Chriſtian,
+<note place="margin">Prinns plea for the Lords and houſe of Peeres 45.46.</note> as Mr. <hi>Prinne</hi> in a larger Plea for the Lords and Houſe of Peeres of <hi>England,</hi> hath learnedly, and abundantly proved, do admit their Nobi<g ref="char:EOLhyphen"/>lity into all their Aſſemblies, Conuentions of Eſtate, Parliaments, Dyets, and Coun<g ref="char:EOLhyphen"/>cells.</p>
+            <p>And that now to exclude our Engliſh <hi>Nobillity,</hi> whoſe Anceſtors were ſo prin<g ref="char:EOLhyphen"/>cipally inſtrumental in the diſclaiming and annulling the Reſignation and Grant of the ill adviſed King <hi>John,</hi>
+               <note place="margin">Mat. Paris 237.245.270 <hi>Walſingham</hi> y podigm. Neus triae pat. 60.</note> to hold the King<g ref="char:EOLhyphen"/>domes of <hi>England</hi> and <hi>Ireland,</hi> in Fee farme of the Pope and his Chaire, by the pay<g ref="char:EOLhyphen"/>ment
+<pb n="15" facs="tcp:168544:9"/>of 1000 Markes yearly Tribute Fought for and maintained our Engliſh Lawes and Liberties, built and endowed, at their own charges, many of our Churches, procured many deafforreſtations for the people and Charters and Liberties for ma<g ref="char:EOLhyphen"/>ny of their Cities, and Townes, gave and diſtributed out of their own Lands and Eſtates, great and large quantities of Land and Ground to be held in Common, and were the Donors of much of the Copy hold Lands of the Nation, which (being no <hi>Norman</hi> ſlavery, but a continuance of Charity and Benevolence, ſince turned into a Cuſtome) were not long agoe a fourth part if not halfe (the Commons, Waſtes, and Forreſts excepted) of all the lands and reall e<g ref="char:EOLhyphen"/>ſtates of the Nation &amp; to render them there<g ref="char:EOLhyphen"/>by to be as no part of the People, but as meer Tituladoes, Shaddows, or aiery Notions, or as men of no value, intereſt, or concernment, would be a ſtrange kinde of gratitude, as well as an unparalell'd violation of the Pe<g ref="char:EOLhyphen"/>tition of Right, our no leſſe then thirty times confirmed <hi>Magna Charta,</hi> and the common Juſtice of the World; who by the Rule and example of God himſelfe in the caſe of <hi>Adam,</hi> in the very dawning and In<g ref="char:EOLhyphen"/>fancy of the World, was taught not to condemne any man, or Society, without a Citation, and heareing what they can
+<pb n="16" facs="tcp:168544:10"/>alleage or plead for themſelves, And make this Nation which hitherto hath juſtly claymed and enjoyed the precedency of moſt of the Nations of the Earth, to be and appear in the eyes of the World, leſſe than the Republicke of <hi>Venice,</hi> who by their admiſſion of their <hi>Clariſſimo</hi>'s and Nobility into their Senate are the more eſteemed for it.</p>
+            <p>And cauſe us in the not makeing uſe of or admitting our Nobility, in to our aſſemblies and Parliaments to be looked upon in that particular as a Nation having no Nobility, or as that Mountanous and beggerly peo<g ref="char:EOLhyphen"/>ple the Switzers, who live and ſubſiſt onely in being as mercenary and Hire<g ref="char:EOLhyphen"/>ling Souldiers to Neighbour Princes, and are in that reſpect ſo undervalued, as they are taken to be but as Fragments or broken peices of a Common-Wealth de<g ref="char:EOLhyphen"/>formedly put together.</p>
+            <p>That it will be againſt the nature and end of a <hi>Commonwealth,</hi> to have a principall eſtate and part of the people, put out of the lynes of <hi>Communication</hi> of it, and be only ad<g ref="char:EOLhyphen"/>mitted to the Taxes and burthens thereof.</p>
+            <p>That many of no few of our Lawes and Acts of <hi>Pvrliament</hi> yet unrepealed and not altered, by any ſubiequent Act of Parli<g ref="char:EOLhyphen"/>ament, which do grant allow and confirm the rights and priviledges of our Engliſh Nobi<g ref="char:EOLhyphen"/>lity,
+<pb n="17" facs="tcp:168544:10"/>(whoſe <hi>Anceſtors</hi> have not only in one but many generations been the grand and ſtout <hi>Aſſertors,</hi> and <hi>Maintainers,</hi> of our <hi>Magna Charta,</hi> and Lawes and liberties of <hi>England,</hi> when the Common people could not do it) are included in theſe Lawes and li<g ref="char:EOLhyphen"/>berties which the now Lord <hi>Protector</hi> hath lately ſworn to obſerve and keep.</p>
+            <p>That two of the Ten <hi>Commandements</hi> given by the mouth of Almighty God him<g ref="char:EOLhyphen"/>ſelfe in Mount <hi>Sinai</hi> with thunder and Lightenings<g ref="char:punc">▪</g> when the Mount ſhoke for the dread and Majeſty thereof twice after<g ref="char:EOLhyphen"/>wards written in Tables of Stone by his own hand and many other of his precepts repeated in his book and holy writt do command the preſervation of every mans property.</p>
+            <p>And that the care of the rights, liber<g ref="char:EOLhyphen"/>ties, and properties of the Peeres, and <hi>No<g ref="char:EOLhyphen"/>bility</hi> of <hi>England,</hi> which neither were, nor are, nor can be proved, to be inconſiſtent with the rights, liberties, and properties of the other part of the people ought to be very much incumbent upon the hearts, and ſpi<g ref="char:EOLhyphen"/>rits of the members of this Parliament, who come thither under an oath, (which the Parliaments of the former ages ſufficiently carefull of the rights, and liberties, not only of a part but of all the people) were not ordered to take) to uphold and main<g ref="char:EOLhyphen"/>taine
+<pb n="18" facs="tcp:168544:11"/>the true reformed Proteſtant Religi<g ref="char:EOLhyphen"/>on in the purity thereof as it is contained in the old, and new teſtament (which cer<g ref="char:EOLhyphen"/>tainly enjoynes the preſervation of every mans property) and as members of Parlia<g ref="char:EOLhyphen"/>ment to indeavour as much as in them lieth the preſervation of the rights, and li<g ref="char:EOLhyphen"/>berties, of the people.</p>
+         </div>
+         <trailer>FINIS</trailer>
+      </body>
+   </text>
+</TEI>
